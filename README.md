@@ -1,8 +1,8 @@
 # Task-2-Michela-Fowobaje
 Analysis of datasets to understand patterns, trends and distributions.
-* **Project Title:* Exploratory Data Analysis
-* **Description:* Analysis using excel to identify trends and  outliers through the calculation of basic statistics.
-* **How To run: Download thee file ,and open it locally.
+* ** Project Title:* Exploratory Data Analysis
+* ** Description:* Analysis using excel to identify trends and  outliers through the calculation of basic statistics.
+* ** How To run:* Download thee file ,and open it locally.
 
 
 
