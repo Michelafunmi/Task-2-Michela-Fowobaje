@@ -2,7 +2,7 @@
 Analysis of datasets to understand patterns, trends and distributions.
 * **Project Title:** Exploratory Data Analysis
 * **Description:** Analysis using excel to identify trends and  outliers through the calculation of basic statistics.
-* **How To run:** Download thee file ,and open it locally.
+* **How To run:** Download the file ,and open it locally.
 
 
 
